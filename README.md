@@ -12,32 +12,10 @@
 
 ![image](https://github.com/stefanoturcarelli/notenook-note-taking-app/assets/67341828/6a19ea1f-cd99-48be-ae2a-9dcc6a706ff0)
 
-## Usage
-
-1.  Clone the repository:
-
-        ```bash
-
-    https://github.com/stefanoturcarelli/notenook-note-taking-app.git
-
-    ```
-
-    ```
-
-2.  Navigate to the project directory:
-
-    ```bash
-    cd NoteNook
-    ```
-
-3.  Open the `index.html` file in your preferred web browser.
-
-4.  Start taking notes! Your notes will be automatically saved to the browser's `localStorage`.
-
 ## Features
 
 - Create new notes
-- Edit existing notes
+- Edit existing notes (future implementation)
 - Delete notes
 - View all notes
 
