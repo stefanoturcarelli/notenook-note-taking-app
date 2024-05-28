@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Live demo](https://stefanoturcarelli.github.io/notenook-note-taking-app/)
+[Live demo]([https://stefanoturcarelli.github.io/notenook-note-taking-app/](https://stefanoturcarelli.github.io/notenook-note-taking-app/))
 
 ## Screenshots
 
