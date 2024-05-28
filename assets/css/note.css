@@ -1,0 +1,26 @@
+/* 
+	The text-overflow property doesn't force an overflow to occur. 
+	To make text overflow its container, you have to set other CSS properties: 
+	overflow and white-space. For example: 
+
+	```css
+		overflow: hidden;
+		white-space: nowrap;
+	```
+	
+	The text-overflow property only affects content that is overflowing a 
+	block container element in its inline progression direction (not text 
+	overflowing at the bottom of a box, for example).
+*/
+
+.note-title {
+  width: 190px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+	cursor: pointer;
+}
+
+.active {
+  color: rgb(39, 108, 197);
+}

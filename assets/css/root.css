@@ -1,0 +1,7 @@
+:root {
+  --systemgray6-default-light: rgb(242, 242, 247);
+  --systemgray6-default-dark: rgb(28, 28, 30);
+  --blue: rgb(0, 122, 255);
+  --blue-accessible-light: rgb(0, 64, 221);
+  --blue-accessible-dark: rgb(0, 156, 255);
+}

@@ -1,0 +1,31 @@
+{
+  "name": "notenook",
+  "version": "1.0.0",
+  "description": "A note taking app that uses the browser's local storage to save notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "notenook",
+    "NoteNook",
+    "note",
+    "notes",
+    "note taking",
+    "note taking app",
+    "note taking application",
+    "note taking web app",
+    "note taking web application",
+    "note app",
+    "note application",
+    "note web app",
+    "note web application",
+    "notebook"
+  ],
+  "author": "Stefano Turcarelli",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

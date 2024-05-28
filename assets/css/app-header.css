@@ -1,0 +1,46 @@
+.action-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+.header-button {
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 50%;
+  border: 1px solid #d3d3d3;
+}
+
+#close {
+  background-color: rgb(255, 59, 48);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#close:hover {
+  background-color: rgb(212, 49, 40);
+}
+
+#minimize {
+  background-color: rgb(255, 204, 0);
+  cursor: default;
+}
+
+#maximize {
+  background-color: rgb(53, 199, 89);
+  cursor: default;
+}
+
+#header-plus-icon {
+  font-size: 2rem;
+}
+
+.create-new-note-button {
+  cursor: pointer;
+  color: var(--blue);
+  transition: color 0.3s;
+}
+
+.create-new-note-button:hover {
+  color: var(--blue-accessible-dark);
+}

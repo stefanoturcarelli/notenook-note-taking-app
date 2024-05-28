@@ -1,0 +1,53 @@
+.create-new-note-button {
+  cursor: pointer;
+  color: var(--blue);
+  transition: color 0.3s;
+}
+
+.create-new-note-button:hover {
+  color: var(--blue-accessible-dark);
+}
+
+/* Save and Cancel buttons */
+button {
+  width: 10rem;
+}
+
+.save-cancel-buttons-container {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+#save-button {
+  background-color: var(--blue);
+  color: var(--systemgray6-default-light);
+  padding: 1rem;
+  border: 1px transparent;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#save-button:hover {
+  background-color: var(--blue-accessible-dark);
+  color: var(--systemgray6-default-light);
+  transition: background-color 0.3s;
+}
+
+#cancel-button {
+  background-color: transparent;
+  color: var(--systemgray6-default-dark);
+  padding: 1rem;
+  border: 1px solid #d3d3d3;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: border 0.3s;
+}
+
+#cancel-button:hover {
+  background-color: var(--systemgray6-default-light);
+  color: var(--systemgray6-default-dark);
+  border: 1px solid #afacac;
+  transition: border 0.3s;
+}

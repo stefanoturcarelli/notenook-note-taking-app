@@ -1,0 +1,12 @@
+@import url(./root.css);
+@import url(./draggable-div.css);
+@import url(./app-header.css);
+@import url(./app-body.css);
+@import url(./app-buttons.css);
+@import url(./note.css);
+
+.desktop-background {
+  background-image: url(../img/background-1.jpg);
+  background-size: cover;
+  background-position: top;
+}
