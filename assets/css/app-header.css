@@ -33,6 +33,8 @@
 
 #header-plus-icon {
   font-size: 2rem;
+  visibility: hidden;
+  cursor: pointer;
 }
 
 .create-new-note-button {

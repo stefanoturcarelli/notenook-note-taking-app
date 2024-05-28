@@ -18,9 +18,29 @@
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .active {
   color: rgb(39, 108, 197);
+}
+
+.note {
+  display: flex;
+}
+
+.delete-button {
+  cursor: pointer;
+  background-color: transparent;
+  transition: color 0.3s;
+}
+
+.delete-button:hover {
+  color: var(--red);
+  transition: color 0.3s;
+}
+
+#note-display-date {
+  color: rgba(122, 122, 122, 0.808);
+  font-size: 1.5rem;
 }
