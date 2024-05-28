@@ -1,5 +1,9 @@
 # NoteNook 
 
+## Demo
+
+[Click here to see a demo](https://stefanoturcarelli.github.io/notenook-note-taking-app/)
+
 ## Screenshots
 
 ![image](https://github.com/stefanoturcarelli/notenook-note-taking-app/assets/67341828/fedde927-f030-4aa2-93f0-a9dc92248333)
